@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.container{
+    border: 1px solid #2f80ed;
+    padding: 32px;
+    padding-right: 40px;
+    width:  300px;
+    text-align:center;
+    display: block;
+    margin: auto;
+    justify-content: center;
+    background-image: linear-gradient(to right, 
+    #56ccf2
+    ,
+    #2f80ed)
+}
+
+
